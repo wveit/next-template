@@ -1,6 +1,7 @@
 export const metadata = {
-  title: "CMR client",
-  description: "Browse NASA Common Metadata Repository (CMR)",
+  title: "Next Template",
+  description:
+    "Starting point for creating a NextJS project with jest and typescript",
 };
 
 export default function RootLayout({
