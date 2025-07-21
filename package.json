@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest --watchAll",
-    "types": "tsc --watch --noemit"
+    "types": "tsc --watch --noemit",
+    "replace-dependencies": "node scripts/replace-dependencies.js"
   },
   "author": "",
   "license": "ISC",
